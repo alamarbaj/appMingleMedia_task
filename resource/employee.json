@@ -1,0 +1,110 @@
+    {
+        "Employee": [
+            {
+                "emp_name" : "Arbaj",
+                "employee_id": 1,
+                "emp_password" : "1234",
+                "emp_phone_number": "7379012070",
+                "employee_lead": [
+                     {
+                        "Student_name" : "Rahul",
+                        "Student_course": "BTech",
+                        "student_phone_no": "7876756546",
+                        "student_time_stamp": "12:00 pm"
+                     },
+                     {
+                        "Student_name" : "Mukesh",
+                        "Student_course": "MCA",
+                        "student_phone_no": "9988665432",
+                        "student_time_stamp": "11:00 am"
+                     },
+                     {
+                        "Student_name" : "Ramu",
+                        "Student_course": "BCA",
+                        "student_phone_no": "8898865577",
+                        "student_time_stamp": "1:00 pm"
+                     }
+                ]
+            },
+            {
+                "emp_name" : "Ram",
+                "employee_id": 2,
+                "emp_password" : "123123",
+                "emp_phone_number": "9878908765",
+                "employee_lead": [
+                     {
+                        "Student_name" : "Asif",
+                        "Student_course": "BA",
+                        "student_phone_no": "9987654675",
+                        "student_time_stamp": "12:00 pm"
+                     },
+                     {
+                        "Student_name" : "Ravi",
+                        "Student_course": "MCA",
+                        "student_phone_no": "8889889899",
+                        "student_time_stamp": "11:00 am"
+                     },
+                     {
+                        "Student_name" : "Virat",
+                        "Student_course": "BTech",
+                        "student_phone_no": "8898865576",
+                        "student_time_stamp": "12:00 pm"
+                     } 
+                ]
+            },
+            {
+                "emp_name" : "Vikash",
+                "employee_id": 3,
+                "emp_password" : "4321",
+                "emp_phone_number": "6676546365",
+                "employee_lead": [
+                     {
+                        "Student_name" : "Suresh",
+                        "Student_course": "BTech",
+                        "student_phone_no": "7876756542",
+                        "student_time_stamp": "12:00 pm"
+                     },
+                     {
+                        "Student_name" : "Ayus",
+                        "Student_course": "MBA",
+                        "student_phone_no": "9288665432",
+                        "student_time_stamp": "11:00 am"
+                     },
+                     {
+                        "Student_name" : "Sonu",
+                        "Student_course": "BCA",
+                        "student_phone_no": "9898865577",
+                        "student_time_stamp": "12:00 pm"
+                     }
+                ]
+            },
+            {
+                "emp_name" : "Raju",
+                "employee_id": 4,
+                "emp_password" : "11111",
+                "emp_phone_number": "9976546365",
+                "employee_lead": [
+                     {
+                        "Student_name" : "Rohit",
+                        "Student_course": "BTech",
+                        "student_phone_no": "9976756542",
+                        "student_time_stamp": "12:00 pm"
+                     },
+                     {
+                        "Student_name" : "Veer",
+                        "Student_course": "MCA",
+                        "student_phone_no": "9988665432",
+                        "student_time_stamp": "11:00 am"
+                     },
+                     {
+                        "Student_name" : "Piyush",
+                        "Student_course": "BCA",
+                        "student_phone_no": "9298865577",
+                        "student_time_stamp": "12:00 pm"
+                     }
+                ]
+            }
+
+
+        ]
+    }
